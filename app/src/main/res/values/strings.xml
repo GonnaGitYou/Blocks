@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blocks</string>
+    <string name="title_block_detail">Block Detail</string>
+    <string name="error_no_data_available">No Data Available!</string>
+    <string name="cardview_title_block_id">BLOCK ID:</string>
+    <string name="bottom_sheet_default_text">No Raw Data</string>
+    <string name="error_no_raw_data">No Raw Data!</string>
+</resources>
